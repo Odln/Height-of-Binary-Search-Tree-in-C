@@ -3,7 +3,7 @@
 #include <math.h>
 int main()
 {
-    int key,i=0;   //key is the no.of node upto which height is to be calculated
+    int key,i=0;   //key is the number of nodes upto which height is to be calculated
     printf("Enter Key");
     scanf("%d",&key);    
 
